@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+    font-family: 'Helvetica';
+}
+
+h1 {
+    color: white;
+    background-color: #333;
+  }
+p {
+    line-height: 1.5;
+}
+img {
+    height: 400px;
+}
+
+/**
+Following code from the link provided in the exercise.
+**/
+dt {
+    font-weight: bold;
+  }
+  
+  dl,
+  dd {
+    font-size: 0.9rem;
+  }
+  
+  dd {
+    margin-bottom: 1em;
+  }
